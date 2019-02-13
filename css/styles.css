@@ -1,0 +1,128 @@
+* {
+margin:0
+}
+
+.main{
+max-width:100%;
+}
+
+
+h1{
+color:orange;
+}
+
+h3 {
+color:#f5d99c;
+margin:2% 0;
+}
+
+.avinash {
+background-color:#c18f3285;
+font-size: 50px;
+margin-bottom:30px;
+}
+
+.avinash p{
+text-align:center;
+}
+
+#cloud1{
+position:relative;
+left:70%;
+}
+
+#cloud2{
+position:absolute;
+left:30%;
+}
+#mountain_img
+{
+position:relative;
+left:35%
+}
+
+.intro
+{
+    text-align:center;
+}
+
+.skills h1 {
+    text-align:center;
+}
+
+
+skills {
+text-align: justify;
+}
+
+#laptop_img{
+    float:left;
+    margin-right:5%;
+    height:95px;
+    width:90px;
+}
+
+#hiking_img{
+    float:right;
+    margin-left:5%;
+    height:95px;
+    width:90px;
+}
+
+.skills{
+margin:30px auto;
+}
+
+.skills div{
+  margin:0 10% 5%;
+}
+
+.skills div p{
+    text-align:justify;
+}
+
+.fi_skill{
+    margin-bottom:50px;
+}
+
+.getintouch{
+    text-align:center;
+    margin:30px
+}
+
+.getintouch p {
+    margin:1% 0px;
+    }
+
+.getintouch button {
+    margin: 1%;
+    background-color: #ffd400e6;
+    padding: 6px 20px;
+    border-radius: 7px;
+    }
+
+footer p{
+display:inline;
+width:100px;
+}
+
+footer{
+    height:100px;
+    width:100%;
+    background-color:orange;
+    text-align:center;
+}
+
+footer span {
+margin:30px;
+}
+
+ul li{
+  margin: 50px;
+  display: inline;
+}
+
+footer ul{
+margin:50px;
+
+}
